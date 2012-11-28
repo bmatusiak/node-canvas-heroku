@@ -5,7 +5,7 @@
  , "keywords": ["canvas", "graphic", "graphics", "pixman", "cairo"]
  , "repository": "git://github.com/elspoono/node-canvas-heroku"
  , "scripts": {
-   "preinstall": "node-waf configure build"
+   "preinstall": "preinstall.sh"
  }
  , "devDependencies": {
      "express": "2.3.7"
