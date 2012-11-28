@@ -1,4 +1,5 @@
 #!/bin/bash
 
-node-waf configure build
+export
+node-waf configure build 
 exit 0
